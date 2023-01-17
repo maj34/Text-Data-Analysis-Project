@@ -37,6 +37,15 @@
 
 <br/>
 
-## 5. 발표 자료
+## 5. 프로젝트 담당 역할
+
+- Selenium을 활용한 9개 신문사 사설 제목 크롤링
+- Stanza 패키지를 사용한 형태소 분석 및 불용어 처리 (Kiwi, Konlpy 구현 및 성능 비교)
+- CSR, COO 방식과 DNN 기법을 통한 감성 분석
+- LSA를 사용한 주제 분석 (NMF, LDA 구현 및 성능 비교)
+
+<br/>
+
+## 6. 발표 자료
 
 [텍데분 최종 발표자료](https://drive.google.com/file/d/11vEo-_S2sKjOxyrR75Gpm4UpOUoMPLMB/view?usp=sharing)
