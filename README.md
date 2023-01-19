@@ -1,5 +1,5 @@
 # 신문사 성향 별 대한민국 정치흐름 파악
-텍스트 데이터분석 전공 프로젝트
+Text-Data-Analysis-Project
 
 <br/>
 
